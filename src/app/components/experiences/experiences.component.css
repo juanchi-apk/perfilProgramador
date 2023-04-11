@@ -1,0 +1,12 @@
+.experience_container{
+    background-color: #2a275d;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+
+}
+
+.experience_container_title{
+    color:white;
+    font-weight: bold;
+}

@@ -1,0 +1,389 @@
+{
+  "navbar": {
+    "tittle": "Juan Manuel Otero - Dev",
+    "button_text": "Login"
+  },
+  "banner": {
+    "greeting": "Mi nombre es Juan, soy full stack developer, "
+  },
+  "about": {
+    "id": 1,
+    "name": "Juan Manuel",
+    "lastName": "Otero",
+    "age": "39",
+    "dob": "18/04/1983",
+    "title": "Full Stack Web Developer",
+    "personal_resume": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+  },
+  "experience": [
+    {
+      "company": "Ministerio de Seguridad - CRJPPF",
+      "freelance": false,
+      "start_date": "02/05/2022",
+      "end_date": "",
+      "current": true,
+      "job_position": "Full Stack Web Developer PHP|JS",
+      "task_detail": [
+        "Desarrollo y mantenimiento de sitio desarrollado en Laravel y Vue.js.",
+        "Desarrollo de componentes para la pagina de beneficiarios y clientes internos.",
+        "Integracion con servicios externos"
+      ],
+      "skills": [
+        "Laravel",
+        "Vue 2",
+        "MySQL"
+      ],
+      "knowledge": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur",
+      "contacts": [
+        {
+          "name": "Juan Persona",
+          "cel": "11-2233-6655",
+          "linkedin": "link://unlinkquevaalcoso.com"
+        }
+      ]
+    },
+    {
+      "company": "Juan Manuel Otero",
+      "freelance": true,
+      "start_date": "01/05/2020",
+      "end_date": "",
+      "current": true,
+      "job_position": "Full Stack Web Developer JS",
+      "task_detail": [
+        "Mantenimiento de Sitios",
+        "Community Manager",
+        "Desarrollo Web",
+        "Marketing Digital"
+      ],
+      "skills": [
+        "Redes Sociales",
+        "Postgres SQL",
+        "React",
+        "React Native",
+        "Next.js",
+        "Express",
+        "Node.js",
+        "Strapi",
+        "Angular",
+        "Spring Boot"
+      ],
+      "knowledge": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur",
+      "contacts": [
+        {
+          "name": "Juan Persona",
+          "cel": "11-2233-6655",
+          "linkedin": "link://unlinkquevaalcoso.com"
+        }
+      ]
+    },
+    {
+      "company": "VEXMEL",
+      "freelance": false,
+      "start_date": "01/12/2016",
+      "end_date": "30/10/2022",
+      "current": false,
+      "job_position": "Sales Manager, Digital Marketing and E-commerce specialist",
+      "task_detail": [
+        "Desarrollo de proyectos eolicos de baja potencia (ST Charger) . Relacion con Grandes Clientes, y mercado minorista.",
+        "Desarrollo de canal digital (Mercado Libre) y mercado tradicional de autopartes de direccion (LACUM).",
+        "Relacion con distribuidores nacionales y Proveedores Internacionales , Comercio Exterior, mercado Asiatico."
+      ],
+      "skills": [
+        "Nubimetrics",
+        "Nosis Trade",
+        "Google DataSheets",
+        "Google Analitycs",
+        "Canva",
+        "Ilustrator",
+        "Corel",
+        "Adobe Premiere",
+        "Herramientas Online de Edicion Audiovisual"
+      ],
+      "knowledge": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur",
+      "contacts": [
+        {
+          "name": "Juan Persona",
+          "cel": "11-2233-6655",
+          "linkedin": "link://unlinkquevaalcoso.com"
+        }
+      ]
+    },
+    {
+      "company": "Juan Manuel Otero",
+      "freelance": true,
+      "start_date": "01/05/2010",
+      "end_date": "31/10/2016",
+      "current": false,
+      "job_position": "Freelance",
+      "task_detail": [
+        "Administracion de cartera de seguros generales y ART",
+        "Organizacion de Eventos Musicales",
+        "Servicios De Entretenimiento , Canto Bar"
+      ],
+      "skills": [
+        "Sony Soundforge",
+        "Sony Vegas",
+        "Adobe Premiere Pro",
+        "Audacity",
+        "Audio y Video"
+      ],
+      "knowledge": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur",
+      "contacts": [
+        {
+          "name": "Juan Persona",
+          "cel": "11-2233-6655",
+          "linkedin": "link://unlinkquevaalcoso.com"
+        }
+      ]
+    },
+    {
+      "company": "Ejes de Comunicacion",
+      "freelance": false,
+      "start_date": "12/12/2010",
+      "end_date": "02/05/2013",
+      "current": false,
+      "job_position": "Monitoreo de Medios y Clipping Audiovisual",
+      "task_detail": [
+        "Edicion de Audio y Video, Montaje de video, Grabacion y migracion de soportes",
+        "Redaccion de resúmenes periodisticos y subida de informacion",
+        "Atencion a agencias de medios, departamentos de prensa de instituciones publicas y privadas"
+      ],
+      "skills": [
+        "CAMRECORDER",
+        "Adobe Premiere",
+        "VLC"
+      ],
+      "knowledge": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur",
+      "contacts": [
+        {
+          "name": "Juan Persona",
+          "cel": "11-2233-6655",
+          "linkedin": "link://unlinkquevaalcoso.com"
+        }
+      ]
+    },
+    {
+      "company": "MAPFRE",
+      "freelance": false,
+      "start_date": "02/09/2009",
+      "end_date": "01/12/2006",
+      "current": false,
+      "job_position": "Asesor Comercial de Seguros Generales, ART y Vida",
+      "task_detail": [
+        "Comercializacion de Seguros Generales, y administracion de cartera",
+        "Relacion con Estudios Contables y Administraciones de Consorcios",
+        "Asistencias a mercado PYME"
+      ],
+      "skills": [
+        "Ventas",
+        "Marketing",
+        "Comunicacion"
+      ],
+      "knowledge": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur",
+      "contacts": [
+        {
+          "name": "Juan Persona",
+          "cel": "11-2233-6655",
+          "linkedin": "link://unlinkquevaalcoso.com"
+        }
+      ]
+    },
+    {
+      "company": "Decidir.com (absorbido por Prisma S.A.)",
+      "freelance": false,
+      "start_date": "01/02/2006",
+      "end_date": "01/12/2006",
+      "current": false,
+      "job_position": "Desarrollo de Negocios",
+      "task_detail": [
+        "Comercializacion y Asistencia en implementacion de Plataforma de validacion de Pagos Online."
+      ],
+      "skills": [
+        "Ventas",
+        "Tecnologia",
+        "Desarrollo Web (HTML, CSS)"
+      ],
+      "knowledge": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur",
+      "contacts": [
+        {
+          "name": "Juan Persona",
+          "cel": "11-2233-6655",
+          "linkedin": "link://unlinkquevaalcoso.com"
+        }
+      ]
+    },
+    {
+      "company": "PerevBent S.A (Banco Santander Río)",
+      "freelance": false,
+      "start_date": "01/12/2004",
+      "end_date": "30/11/2005",
+      "current": false,
+      "job_position": "Telemarketing",
+      "task_detail": [
+        "Venta Telefonica de Productos Bancarios",
+        "Venta de Seguros Generales"
+      ],
+      "skills": [
+        "Ventas",
+        "Comunicacion"
+      ],
+      "knowledge": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur",
+      "contacts": [
+        {
+          "name": "Juan Persona",
+          "cel": "11-2233-6655",
+          "linkedin": "link://unlinkquevaalcoso.com"
+        }
+      ]
+    },
+    {
+      "company": "ActionLine Argentina",
+      "freelance": false,
+      "start_date": "20/12/2003",
+      "end_date": "24/11/2004",
+      "current": false,
+      "job_position": "Telemarketing | Supervisor Trainee",
+      "task_detail": [
+        "Venta de Servicios de Internet y Telefonia.",
+        "Supervision de linea de Operadores (Manejo de Operadores (40 personas a cargo) , Monitoreo de Llamados, Resolucion de Problemas, Generacion de scripts de venta y Capacitacion , Coaching y Supervision"
+      ],
+      "skills": [
+        "Ventas",
+        "Comunicacion"
+      ],
+      "knowledge": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur",
+      "contacts": [
+        {
+          "name": "Juan Persona",
+          "cel": "11-2233-6655",
+          "linkedin": "link://unlinkquevaalcoso.com"
+        }
+      ]
+    }
+  ],
+ "technologies": [
+    "Javascript",
+    "Typescript",
+    "PHP",
+    "JAVA",
+    "MySQL",
+    "React",
+    "React Native",
+    "Expo Go",
+    "Spring Boot",
+    "Laravel",
+    "Vue 2",
+    "Node",
+    "Next",
+    "Express",
+    "Angular",
+    "Strapi"
+  ],
+  "studyes": [
+    {
+      "course": "Programador Web - Angular y Java Springboot",
+      "duration": "6 meses",
+      "institution": "Argentina Programa #SeProgramar",
+      "keywords": [
+        "Angular",
+        "Java",
+        "MySQL",
+        "Spring boot",
+        "HTML",
+        "CSS",
+        "Node"
+      ],
+      "learned_skills": "Desarrollo de una plantilla editable de perfil profesional, utilizando modelado   MVC , con Angular en Front, Java y Spring boot en backend y MySql",
+      "start": "2023",
+      "done": 100,
+      "type": "course"
+    },
+    {
+      "course": "Full Stack Developer JS",
+      "duration": "8 meses",
+      "institution": "SoyHenry",
+      "keywords": ["Javascript", "Postgres", "MySql", "React", "Express", "Node", "Sequelize", "CSS", "HTML"],
+      "learned_skills": "En el bootcamp arrancamos viendo las nociones principales de programacion, tipos de datos, modelado, programacion funcional, programacion linea usando Javascript como Lenguaje. En segunda instancia, empezamos a trabajar con Javascript orientado a objetos, realizando proyectos web con jquery. Como proyectos finales se realizaron dos proyectos en stack PERN (Postgres, Express, React, Node.",
+      "start": "2020",
+      "done": 100,
+      "type": "course"
+    },
+    {
+      "course": "Diplomatura en Marketing Integrado",
+      "duration": "8 meses",
+      "institution": "UNSAM - Universidad Nacional de San Martin",
+      "keywords": [
+        "Marketing Digital",
+        "Community Manager",
+        "Redes Sociales"
+      ],
+      "learned_skills": "Fue un taller integral, donde realizamos el desarrollo completo de un proyecto, partiendo desde conceptos de design thinking , utilizando metodologias agiles. Aprendimos y experimentamos sobre emprendimientos reales con diferentes tipos de medicion de canales digitales y analógicos.",
+      "start": "2019",
+      "done": 100,
+      "type": "course"
+    },
+    {
+      "course": "Marketing Digital",
+      "duration": "6 meses",
+      "institution": "Capacitarte UBA",
+      "keywords": [
+        "Facebook Manager",
+        "Community Manager",
+        "Instagram",
+        "Canvas",
+        "Illustrator"
+      ],
+      "learned_skills": "En este workshop universitario, vimos herramientas digitales para envio de campañas, analisis de consumidor, comunicacion integrada, Community Management",
+      "start": "2018",
+      "done": 100,
+      "type": "course"
+    },
+    {
+      "course": "Licenciatura en Marketing",
+      "duration": "5 años",
+      "start": "2017",
+      "institution": "FAECC",
+      "keywords": [
+        "Marketing",
+        "Negocios",
+        "Redes Sociales",
+        "Administracion de empresas"
+      ],
+      "learned_skills": "En este workshop universitario, vimos herramientas digitales para envio de campañas, analisis de consumidor, comunicacion integrada, Community Management",
+      "done": 68,
+      "type": "career"
+    },
+    {
+      "course": "Productor y Director de Radio y Television",
+      "duration": "3 años",
+      "start": "2011",
+      "institution": "Isec",
+      "keywords": [
+        "Facebook Manager",
+        "Community Manager",
+        "Instagram",
+        "Canvas",
+        "Illustrator"
+      ],
+      "learned_skills": "En este workshop universitario, vimos herramientas digitales para envio de campañas, analisis de consumidor, comunicacion integrada, Community Management",
+      "done": 50,
+      "type": "career"
+    },
+    {
+      "course": "Ingenieria Informática",
+      "duration": "5 años",
+      "start": "2023",
+      "institution": "UNLAM - Universidad Nacional de la Matanza",
+      "keywords": [
+        "Facebook Manager",
+        "Community Manager",
+        "Instagram",
+        "Canvas",
+        "Illustrator"
+      ],
+      "learned_skills": "En este workshop universitario, vimos herramientas digitales para envio de campañas, analisis de consumidor, comunicacion integrada, Community Management",
+      "done": 5,
+      "type": "career"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<div>
+    <h1>
+        Education
+    </h1>
+    <h2>Careers</h2>
+    
+    <div class="study_container">        
+        <div class="study_item" *ngFor="let course of courses" >
+            <app-study-item [study]="course"></app-study-item>
+        </div>
+    </div>
+       
+    <h2>Courses</h2>
+        <div class="study_container">        
+            <div class="study_item" *ngFor="let career of careers" >
+                <app-study-item [study]="career"></app-study-item>
+            </div>
+        </div>
+</div>

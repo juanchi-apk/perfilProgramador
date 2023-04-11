@@ -1,0 +1,18 @@
+<div class="study_card">
+        <circle-progress
+        [percent]="study.done"
+        [backgroundColor] ="circleprop.backgroundColor"
+        [outerStrokeGradient] = "circleprop.outerStrokeGradient"
+        [outerStrokeColor] = "circleprop.outerStrokeColor"
+        [outerStrokeGradientStopColor] = "circleprop.outerStrokeGradientStopColor"
+        [titleColor] = "circleprop.titleColor"
+        [unitsColor] = "circleprop.unitsColor"
+        [subtitleColor] = "circleprop.subtitleColor"
+        >
+
+        </circle-progress>
+
+<p>{{study.done}} %</p>
+<p>{{study.course}}</p>
+<p>{{study.institution}}</p>
+</div>

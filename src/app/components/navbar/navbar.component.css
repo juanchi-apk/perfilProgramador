@@ -1,0 +1,40 @@
+nav{
+    box-shadow: 0 0 30px 0 #2f299b  ;
+}
+.header{
+position: fixed;
+max-height: 100px;
+display:flex;
+flex-flow: row wrap;
+align-content:center;
+justify-content: space-between;
+background-color: #2a275d; 
+z-index: 20;
+}
+
+.header_right_lg{
+    display: flex;
+    flex-direction: row;
+}
+
+.header_right_lg_sections{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    margin-right: 5vw;
+
+}
+
+.nav-link{
+    color: white;
+    font-weight: bold;
+
+}
+
+.login_form_button{
+    margin-right: 5px;
+}
+.login_form_button button{
+    background-color: rgb(201, 171, 0);
+}
