@@ -1,7 +1,23 @@
 .study_card{
-    max-width: 400px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin:10px;
+}
+.study_card_rating{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.study_card_counter{
+
+}
+.study_card_block{
+position: absolute;
+width: 2px;
+height: 15px;
+background-color: black;
+left:50%;
+transform-origin: 50% 100px;
+transform:rotate(25deg);
 }

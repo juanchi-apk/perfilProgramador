@@ -14,7 +14,6 @@ import { StudyItemComponent } from './components/study-item/study-item.component
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatDialogModule } from '@angular/material/dialog';
 import { ExperienceDetailsComponent } from './components/experience-item/experience-details/experience-details.component';
-import {IvyCarouselModule} from 'angular-responsive-carousel';
 import { NgCircleProgressModule } from 'ng-circle-progress';
 
 @NgModule({
@@ -37,7 +36,6 @@ import { NgCircleProgressModule } from 'ng-circle-progress';
     HttpClientModule,
     BrowserAnimationsModule,
     MatDialogModule,
-    IvyCarouselModule,
     NgCircleProgressModule.forRoot({
     }) 
   ],

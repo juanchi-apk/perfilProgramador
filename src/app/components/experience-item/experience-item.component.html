@@ -1,51 +1,53 @@
-<div class="experience_background">
-    <div>
+    
+
+
+        <div class="experience_item_card ">
+            <div class="experience_item_container p-5">
+                <div class="experience_item_content">
+                    <div>
+                        <h3>function <span>{{ experience.company}}</span> (<span class="freelance"
+                                *ngIf="experience.freelance">freelance</span>) {{"{"}} </h3>
+                    </div>
+                    <div>
+                        <h5><span class="func_var_tag">let </span>start_date = <span>"{{experience.start_date}}"</span>
+                        </h5>
+                    </div>
+                    <div>
+                        <h5><span class="func_var_tag">let </span>end_date = <span>"{{experience.current? "Presente" : experience.end_date}}"</span>
+                        </h5>
+                    </div>
+                    <div>
+                        <h5><span class="func_var_tag">let </span>position = <span>"{{experience.job_position}}"</span>
+                        </h5>
+                    </div>
+                    <div class="func_var_task">
+                        <h5><span class="func_var_tag">let </span>tasks = <span class="func_var_tag_bracket">[</span>
+                        </h5>
+                        <ul class="experience_item_card_list">
+                            <li *ngFor="let task of experience.task_detail">{{'"'+task+ '"'}}<span
+                                    style="color:white;">,</span></li>
+
+                        </ul>
+                        <h5><span class="func_var_tag_bracket">]</span>;</h5>
+                    </div>
+
+                    <div class="func_var_skill_list">
+                        <h5><span class="func_var_tag">let </span>skills = <span class="func_var_tag_bracket">[</span>
+                        </h5>
+                        <span *ngFor="let skill of experience.skills">{{skill}}<span
+                                style="color:white;">,</span></span>
+                        <h5><span class="func_var_tag_bracket">]</span>;</h5>
+                    </div>
+
+                    <div class="experience_item_footer">
+                        <button style="background-color: transparent; border:none" mat-button
+                            (click)="openDialog()"><span>
+                                <p>return<span>(...)</span></p>
+                            </span>
+                        </button>
+                        <p>// Hacer click en Return para saber mas...</p>
+                    </div>
+                </div>
+
 
     
-    <div class ="experience_item_card ">
-    <div class="experience_item_timeline">
-        <div class="timeline_line"> </div>
-        <div class ="timeline_icon">
-            <fa-icon size="6x" [icon]="faCircleDot"></fa-icon>
-        </div>
-        <div class="timeline_line"> </div>
-    </div>
-    <div class="experience_item_container p-5">
-        <div class="experience_item_logo">
-            <span>{{experience.start_date}}</span>
-            <span>{{experience.current? "Presente" : experience.end_date}}</span>
-        </div>
-        <div class="experience_item_content">
-            <div>
-                <h3>function <span>{{ experience.company}}</span> (<span  class="freelance"  *ngIf="experience.freelance">freelance</span>) {{"{"}} </h3>
-            </div>
-            <div>
-                <h5><span class="func_var_tag">let </span>position = <span>"{{experience.job_position}}"</span></h5>
-            </div>
-            <div class="func_var_task">
-            <h5><span class="func_var_tag">let </span>tasks = <span class="func_var_tag_bracket">[</span></h5>
-            <ul class="experience_item_card_list">
-                <li *ngFor="let task of experience.task_detail">{{'"'+task+ '"'}}<span style="color:white;">,</span></li>
-                
-            </ul>
-            <h5><span class="func_var_tag_bracket">]</span>;</h5>
-            </div>
-            
-            <div class="func_var_skill_list">
-                <h5><span class="func_var_tag">let </span>skills = <span class="func_var_tag_bracket">[</span></h5>
-                <span *ngFor="let skill of experience.skills">{{skill}}<span style="color:white;">,</span></span>
-                <h5><span class="func_var_tag_bracket">]</span>;</h5>
-            </div>
-                
-            <div class="experience_item_footer">
-                <button style="background-color: transparent; border:none" mat-button (click)="openDialog()"><span >
-                <p >return<span>(...)</span></p>
-                </span>
-                </button>
-                <p>// Hacer click en Return para saber mas...</p>
-            </div>
-        </div>
-        </div>
-    
-    </div>
-</div>

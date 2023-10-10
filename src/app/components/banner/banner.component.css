@@ -1,11 +1,12 @@
 .parallax {
-    /* Set a specific height */
+    background-image:url('../../../assets/images/background_banner.jpg');
     min-height: 500px;
-  
-    /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:auto;
+    max-width: 100vw;
+    min-width: 100vw;
+
 }
 

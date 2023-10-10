@@ -1,4 +1,4 @@
-<div class="study_card">
+<!-- <div class="study_card">
         <circle-progress
         [percent]="study.done"
         [backgroundColor] ="circleprop.backgroundColor"
@@ -15,4 +15,10 @@
 <p>{{study.done}} %</p>
 <p>{{study.course}}</p>
 <p>{{study.institution}}</p>
+</div> -->
+<div class="study_card" >
+        <div class="study_card_rating">
+         <h2><span class="study_card_counter" [attr.data-target]="'#demo'+ study.done">{{study.done}}</span><sub>%</sub><br/>{{study.course}}<br/>{{study.institution}}</h2>
+         <div class="study_card_block" ></div>
+        </div> 
 </div>
